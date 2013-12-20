@@ -106,6 +106,7 @@
     <Compile Include="Role.cs">
       <DependentUpon>Movies.tt</DependentUpon>
     </Compile>
+    <Compile Include="UpdateLocalPathOfImages.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
